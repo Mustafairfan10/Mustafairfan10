@@ -55,26 +55,9 @@ I’m Mustafa Irfan, a software engineer and founder focused on turning ideas in
 
 ⚡ Tech stack
 
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <b>Languages</b><br /><br />
-      <code>Python</code> <code>JavaScript</code> <code>TypeScript</code> <code>Dart</code>
-    </td>
-    <td width="25%" valign="top">
-      <b>Product development</b><br /><br />
-      <code>React</code> <code>Next.js</code> <code>Flutter</code> <code>Unity</code>
-    </td>
-    <td width="25%" valign="top">
-      <b>Backend & data</b><br /><br />
-      <code>Node.js</code> <code>FastAPI</code> <code>MongoDB</code> <code>REST APIs</code>
-    </td>
-    <td width="25%" valign="top">
-      <b>Cloud & delivery</b><br /><br />
-      <code>Docker</code> <code>AWS</code> <code>Azure</code> <code>Linux</code>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,dart,react,nextjs,tailwind,flutter,nodejs,fastapi,mongodb,docker,aws,azure,git,github,linux,unity&theme=dark&perline=18" width="100%" alt="Python, JavaScript, TypeScript, Dart, React, Next.js, Tailwind CSS, Flutter, Node.js, FastAPI, MongoDB, Docker, AWS, Azure, Git, GitHub, Linux, and Unity" />
+</div>
 
 <div align="center">
   <img src="./projects-strip.svg" width="100%" alt="Selected projects" />
