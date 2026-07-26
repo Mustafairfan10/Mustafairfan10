@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/profile-header.svg" width="100%" alt="Mustafa Irfan — Software Engineer" />
+  <img src="./profile-header.svg" width="100%" alt="Mustafa Irfan — Software Engineer" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+practical+AI-powered+products.;Automating+workflows.+Shipping+software.;Exploring+secure+AI+systems+and+modern+web+experiences." alt="Animated introduction" />
@@ -18,7 +18,7 @@
 
 I’m **Mustafa Irfan**, a software engineer and founder focused on turning ideas into reliable web, mobile, and AI-powered products. I enjoy working at the intersection of automation, product engineering, and security-minded development.
 
-<img align="right" alt="Software engineering workflow" width="390" src="./assets/developer-systems.svg" />
+<img align="right" alt="Software engineering workflow" width="390" src="./developer-systems.svg" />
 
 - 🔭 **Software Engineer** at Dhao AI
 - 🚀 **Founder** at DivLynx Inc.
@@ -36,7 +36,7 @@ I’m **Mustafa Irfan**, a software engineer and founder focused on turning idea
 </div>
 
 <div align="center">
-  <img src="./assets/projects-strip.svg" width="100%" alt="Selected projects" />
+  <img src="./projects-strip.svg" width="100%" alt="Selected projects" />
 </div>
 
 <br />
