@@ -6,13 +6,35 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+practical+AI-powered+products.;Automating+workflows.+Shipping+software.;Exploring+secure+AI+systems+and+modern+web+experiences." alt="Animated introduction" />
   </a>
 
-  <p>
-    <a href="mailto:mustafairfan985@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/Mustafairfan10"><img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <img src="https://komarev.com/ghpvc/?username=Mustafairfan10&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge" alt="Profile views" />
-  </p>
+  <a href="mailto:mustafairfan985@gmail.com"><img src="https://img.shields.io/badge/LET'S%20TALK-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" alt="Email Mustafa" /></a>
+  <a href="https://github.com/Mustafairfan10"><img src="https://img.shields.io/badge/EXPLORE-GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="GitHub profile" /></a>
+  <a href="https://www.divlynx.com"><img src="https://img.shields.io/badge/VISIT-DivLynx-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A" alt="DivLynx website" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Mustafairfan10&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views" />
 
 </div>
+
+## 📊 Impact snapshot
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h2>3+ Years</h2>
+      <sub>Development experience</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>4 Domains</h2>
+      <sub>Web • Mobile • Games • AI</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>6 Projects</h2>
+      <sub>Selected professional work</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>Remote</h2>
+      <sub>Global collaboration</sub>
+    </td>
+  </tr>
+</table>
 
 ## 👋 About me
 
