@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20&height=245&section=header&text=Mustafa%20Irfan&fontSize=62&fontColor=FFFFFF&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Flutter%20%E2%80%A2%20Unity%20%E2%80%A2%20AI%20Agents&descAlignY=63&animation=fadeIn" width="100%" alt="Mustafa Irfan banner" />
+  <img src="./assets/profile-header.svg" width="100%" alt="Mustafa Irfan — Software Engineer" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+practical+AI-powered+products.;Automating+workflows.+Shipping+software.;Exploring+secure+AI+systems+and+modern+web+experiences." alt="Animated introduction" />
@@ -14,39 +14,29 @@
 
 </div>
 
-👋 About me
+## 👋 About me
 
-I’m Mustafa Irfan, a software engineer and founder focused on turning ideas into reliable web, mobile, and AI-powered products. I enjoy working at the intersection of automation, product engineering, and security-minded development.
+I’m **Mustafa Irfan**, a software engineer and founder focused on turning ideas into reliable web, mobile, and AI-powered products. I enjoy working at the intersection of automation, product engineering, and security-minded development.
 
-<img align="right" alt="Animated code" width="310" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" alt="Software engineering workflow" width="390" src="./assets/developer-systems.svg" />
 
-🔭 Software Engineer at Dhao AI
-
-🚀 Founder at DivLynx Inc.
-
-🤖 Building with AI agents, LLM workflows, automation, and full-stack systems
-
-🛡️ Interested in secure AI systems, MCP security, and application security
-
-🌍 Based in Islamabad, Pakistan — working remotely
-
-💬 Open to collaborating on AI, web, mobile, automation, and security projects
+- 🔭 **Software Engineer** at Dhao AI
+- 🚀 **Founder** at DivLynx Inc.
+- 🤖 Building with AI agents, LLM workflows, automation, and full-stack systems
+- 🛡️ Interested in secure AI systems, MCP security, and application security
+- 🌍 Based in Islamabad, Pakistan — working remotely
+- 💬 Open to collaborating on AI, web, mobile, automation, and security projects
 
 <br clear="right" />
 
-⚡ Tech stack
+## ⚡ Tech stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,dart,react,nextjs,tailwind,flutter,nodejs,fastapi,mongodb,docker,aws,azure,git,github,linux,unity&perline=9" alt="Technology icons" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=900&color=F59E0B&center=true&vCenter=true&width=700&lines=Featured+Builds+%E2%80%94+What+I%27m+Creating+%F0%9F%9A%80;AI+Systems+%C2%B7+Automation+%C2%B7+Security+%C2%B7+Product+Engineering" alt="Featured builds animation" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/PROJECTS-Selected%20Work-2563EB?style=for-the-badge&labelColor=0F172A" alt="Selected projects" />
-  <img src="https://img.shields.io/badge/BUILDING-AI%20that%20solves%20real%20problems-22D3EE?style=for-the-badge&labelColor=0F172A" alt="Building practical AI" />
+  <img src="./assets/projects-strip.svg" width="100%" alt="Selected projects" />
 </div>
 
 <br />
@@ -54,44 +44,56 @@ I’m Mustafa Irfan, a software engineer and founder focused on turning ideas in
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Website redesign and rebuild</h3>
-      <img src="https://img.shields.io/badge/WEB-Australia-38BDF8?style=flat-square" alt="Web project" />
+      <img src="https://img.shields.io/badge/01-WEB%20PLATFORM-2563EB?style=for-the-badge&labelColor=0F172A" alt="Project 1" />
+      <h3>Website redesign and rebuild</h3>
       <p>A full rebuild of a marketing site on a headless stack the team can edit independently.</p>
-      <code>Next.js</code> <code>Nest.js</code> <code>Tailwind</code> <code>shadcn/ui</code>
+      <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="Nest.js" />
+      <img src="https://img.shields.io/badge/Tailwind-0891B2?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 E-commerce storefront</h3>
-      <img src="https://img.shields.io/badge/COMMERCE-USA-8B5CF6?style=flat-square" alt="Commerce project" />
+      <img src="https://img.shields.io/badge/02-E--COMMERCE-7C3AED?style=for-the-badge&labelColor=0F172A" alt="Project 2" />
+      <h3>E-commerce storefront</h3>
       <p>Catalogue, cart, and checkout built to survive campaign traffic spikes.</p>
-      <code>React</code> <code>Node.js</code> <code>Tailwind</code>
+      <img src="https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Tailwind-0891B2?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💳 Subscription platform</h3>
-      <img src="https://img.shields.io/badge/PRODUCT-Pakistan-10B981?style=flat-square" alt="Product project" />
+      <img src="https://img.shields.io/badge/03-SUBSCRIPTION%20SAAS-059669?style=for-the-badge&labelColor=0F172A" alt="Project 3" />
+      <h3>Subscription platform</h3>
       <p>Plan management, billing states, and a self-serve account area.</p>
-      <code>Product</code> <code>Billing</code> <code>Web App</code>
+      <img src="https://img.shields.io/badge/SaaS-065F46?style=flat-square" alt="SaaS" />
+      <img src="https://img.shields.io/badge/Billing-047857?style=flat-square" alt="Billing" />
+      <img src="https://img.shields.io/badge/Web%20App-059669?style=flat-square" alt="Web application" />
     </td>
     <td width="50%" valign="top">
-      <h3>☎️ Hotel reception voice agent</h3>
-      <img src="https://img.shields.io/badge/VOICE%20AI-Pakistan-F59E0B?style=flat-square" alt="Voice AI project" />
+      <img src="https://img.shields.io/badge/04-VOICE%20AI-D97706?style=for-the-badge&labelColor=0F172A" alt="Project 4" />
+      <h3>Hotel reception voice agent</h3>
       <p>Takes reservations around the clock, understands accents, and escalates to a human on request.</p>
-      <code>Python</code> <code>Rasa</code> <code>Twilio</code> <code>NLP</code>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Rasa-5A17EE?style=flat-square&logo=rasa&logoColor=white" alt="Rasa" />
+      <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏏 Cricket management app</h3>
-      <img src="https://img.shields.io/badge/MOBILE-Pakistan-EF4444?style=flat-square" alt="Mobile project" />
+      <img src="https://img.shields.io/badge/05-SPORTS%20MOBILE-DC2626?style=for-the-badge&labelColor=0F172A" alt="Project 5" />
+      <h3>Cricket management app</h3>
       <p>Fixtures, live scoring, and squad management across web and mobile.</p>
-      <code>React</code> <code>Express</code> <code>MongoDB</code>
+      <img src="https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white" alt="React" />
+      <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express" alt="Express" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
     </td>
     <td width="50%" valign="top">
-      <h3>☁️ Zero-downtime deployment pipeline</h3>
-      <img src="https://img.shields.io/badge/PLATFORM-Global-2563EB?style=flat-square" alt="Platform project" />
+      <img src="https://img.shields.io/badge/06-CLOUD%20DEVOPS-0284C7?style=for-the-badge&labelColor=0F172A" alt="Project 6" />
+      <h3>Zero-downtime deployment pipeline</h3>
       <p>Containerised delivery with infrastructure as code and automated rollbacks.</p>
-      <code>AWS</code> <code>Docker</code> <code>Kubernetes</code> <code>Terraform</code>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
     </td>
   </tr>
 </table>
@@ -108,8 +110,9 @@ I’m Mustafa Irfan, a software engineer and founder focused on turning ideas in
   <code>MCPRed</code> <code>TestPilotAI</code> <code>AgentLab</code> <code>ResumeBuilderAI</code> <code>Dastoor Desk (HaqAI)</code>
 </details>
 
-💼 Experience
+## 💼 Experience
 
+```text
 2026 — Present   Software Engineer, Dhao AI
                  Python • Flutter • REST APIs • Full-stack development
 
@@ -118,8 +121,9 @@ I’m Mustafa Irfan, a software engineer and founder focused on turning ideas in
 
 2023 — Present   Web Development Specialist, Upwork
                  Responsive web apps • integrations • client delivery
+```
 
-📈 GitHub activity
+## 📈 GitHub activity
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mustafairfan10&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics" />
@@ -130,12 +134,14 @@ I’m Mustafa Irfan, a software engineer and founder focused on turning ideas in
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafairfan10&bg_color=0D1117&color=E2E8F0&line=38BDF8&point=F59E0B&area=true&hide_border=true" width="96%" alt="GitHub contribution graph" />
 </div>
 
-🎯 Currently focused on
+## 🎯 Currently focused on
 
+```diff
 + Secure AI agents and MCP hardening
 + Production-ready AI automation workflows
 + Modern React / Next.js product experiences
 + Cloud, DevOps, and scalable application architecture
+```
 
 <div align="center">
   <i>Let’s build something useful.</i><br /><br />
