@@ -40,45 +40,64 @@ I’m Mustafa Irfan, a software engineer and founder focused on turning ideas in
   <img src="https://skillicons.dev/icons?i=python,js,ts,dart,react,nextjs,tailwind,flutter,nodejs,fastapi,mongodb,docker,aws,azure,git,github,linux,unity&perline=9" alt="Technology icons" />
 </div>
 
-🚀 Featured work
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=900&color=F59E0B&center=true&vCenter=true&width=700&lines=Featured+Builds+%E2%80%94+What+I%27m+Creating+%F0%9F%9A%80;AI+Systems+%C2%B7+Automation+%C2%B7+Security+%C2%B7+Product+Engineering" alt="Featured builds animation" />
+</div>
 
-Project
+<div align="center">
+  <img src="https://img.shields.io/badge/PROJECTS-Selected%20Work-2563EB?style=for-the-badge&labelColor=0F172A" alt="Selected projects" />
+  <img src="https://img.shields.io/badge/BUILDING-AI%20that%20solves%20real%20problems-22D3EE?style=for-the-badge&labelColor=0F172A" alt="Building practical AI" />
+</div>
 
-Highlights
+<br />
 
-Stack
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ MCPRed</h3>
+      <img src="https://img.shields.io/badge/FOCUS-AI%20Security-F59E0B?style=flat-square" alt="AI security" />
+      <p>Attack-guided policy assurance and hardening for MCP-based AI agents.</p>
+      <code>Python</code> <code>MCP</code> <code>AI Security</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 TestPilotAI</h3>
+      <img src="https://img.shields.io/badge/FOCUS-AI%20Testing-38BDF8?style=flat-square" alt="AI testing" />
+      <p>AI-assisted browser testing with locator resolution, diagnostics, screenshots, and bug reporting.</p>
+      <code>Python</code> <code>Playwright</code> <code>Hugging Face</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AgentLab</h3>
+      <img src="https://img.shields.io/badge/FOCUS-Agent%20Workflows-8B5CF6?style=flat-square" alt="Agent workflows" />
+      <p>A multi-agent learning workspace with switchable Hugging Face models.</p>
+      <code>Python</code> <code>LLMs</code> <code>Agents</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 ResumeBuilderAI</h3>
+      <img src="https://img.shields.io/badge/FOCUS-Career%20Tech-10B981?style=flat-square" alt="Career technology" />
+      <p>Privacy-first resume generation with ATS feedback, keyword analysis, and PDF export.</p>
+      <code>FastAPI</code> <code>Ollama</code> <code>ReportLab</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚖️ Dastoor Desk (HaqAI)</h3>
+      <img src="https://img.shields.io/badge/FOCUS-Legal%20AI-EF4444?style=flat-square" alt="Legal AI" />
+      <p>Bilingual Pakistan legal-awareness platform using research, critique, and synthesis agents.</p>
+      <code>RAG</code> <code>Python</code> <code>Agents</code>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <h3>✨ More in progress</h3>
+      <p>Building, learning, and shipping continuously.</p>
+      <img src="https://img.shields.io/badge/STATUS-Always%20building-2563EB?style=for-the-badge&logo=rocket&logoColor=white" alt="Always building" />
+    </td>
+  </tr>
+</table>
 
-MCPRed
-
-Attack-guided policy assurance and hardening for MCP-based AI agents.
-
-Python MCP AI Security
-
-TestPilotAI
-
-AI-assisted browser testing with locator resolution, diagnostics, screenshots, and bug reporting.
-
-Python Playwright Hugging Face
-
-AgentLab
-
-A multi-agent learning workspace with switchable Hugging Face models.
-
-Python LLMs Agents
-
-ResumeBuilderAI
-
-Privacy-first resume generation with ATS feedback, keyword analysis, and PDF export.
-
-FastAPI Ollama ReportLab
-
-Dastoor Desk (HaqAI)
-
-Bilingual Pakistan legal-awareness platform using research, critique, and synthesis agents.
-
-RAG Python Agents
-
-The repositories pinned below are the best place to see what I’m actively building.
+<div align="center">
+  <sub>↓ Explore my pinned repositories for the code, demos, and latest updates ↓</sub>
+</div>
 
 💼 Experience
 
