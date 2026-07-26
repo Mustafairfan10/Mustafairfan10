@@ -116,22 +116,43 @@ I’m Mustafa Irfan, a software engineer and founder focused on turning ideas in
   <sub>↓ Explore my pinned repositories for the code, demos, and latest updates ↓</sub>
 </div>
 
-<details>
-  <summary><b>✨ Also building — open this for my AI and research projects</b></summary>
-  <br />
-  <code>MCPRed</code> <code>TestPilotAI</code> <code>AgentLab</code> <code>ResumeBuilderAI</code> <code>Dastoor Desk (HaqAI)</code>
-</details>
-
 💼 Experience
 
-2026 — Present   Software Engineer, Dhao AI
-                 Python • Flutter • REST APIs • Full-stack development
-
-2026 — Present   Senior Game Designer, DevDaa
-                 Game design • Unity-based experiences
-
-2023 — Present   Web Development Specialist, Upwork
-                 Responsive web apps • integrations • client delivery
+<table>
+  <tr>
+    <td width="20%" align="center" valign="middle">
+      <b>2026 — Present</b><br />
+      <sub>Current role</sub>
+    </td>
+    <td width="80%" valign="top">
+      <h3>Software Engineer · Dhao AI</h3>
+      <p>Building production-ready software across web, mobile, and backend systems.</p>
+      <code>Python</code> <code>Flutter</code> <code>REST APIs</code> <code>Full-stack</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center" valign="middle">
+      <b>2026 — Present</b><br />
+      <sub>Contract</sub>
+    </td>
+    <td width="80%" valign="top">
+      <h3>Senior Game Designer · DevDaa</h3>
+      <p>Designing game systems and collaborating on Unity-based interactive experiences.</p>
+      <code>Game Design</code> <code>Unity</code> <code>Interactive Systems</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center" valign="middle">
+      <b>2023 — Present</b><br />
+      <sub>Freelance</sub>
+    </td>
+    <td width="80%" valign="top">
+      <h3>Web Development Specialist · Upwork</h3>
+      <p>Delivering responsive web applications, integrations, and client-focused solutions.</p>
+      <code>Web Development</code> <code>Integrations</code> <code>Client Delivery</code>
+    </td>
+  </tr>
+</table>
 
 📈 GitHub activity
 
