@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:22d3ee&height=220&section=header&text=Mustafa%20Irfan&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Automation%20Builder%20%7C%20Founder%20at%20DivLynx&descAlignY=58&animation=fadeIn" width="100%" alt="Mustafa Irfan banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20&height=245&section=header&text=Mustafa%20Irfan&fontSize=62&fontColor=FFFFFF&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Flutter%20%E2%80%A2%20Unity%20%E2%80%A2%20AI%20Agents&descAlignY=63&animation=fadeIn" width="100%" alt="Mustafa Irfan banner" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+practical+AI-powered+products.;Automating+workflows.+Shipping+software.;Exploring+secure+AI+systems+and+modern+web+experiences." alt="Animated introduction" />
@@ -18,7 +18,7 @@
 
 I’m Mustafa Irfan, a software engineer and founder focused on turning ideas into reliable web, mobile, and AI-powered products. I enjoy working at the intersection of automation, product engineering, and security-minded development.
 
-<img align="right" alt="Coding animation" width="270" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1hNm9oamN2dmY2b2Qxd3p6bmF5aHNsYnh0cW1zY2d5NGt6cGVkNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Animated code" width="310" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 🔭 Software Engineer at Dhao AI
 
@@ -54,50 +54,59 @@ I’m Mustafa Irfan, a software engineer and founder focused on turning ideas in
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ MCPRed</h3>
-      <img src="https://img.shields.io/badge/FOCUS-AI%20Security-F59E0B?style=flat-square" alt="AI security" />
-      <p>Attack-guided policy assurance and hardening for MCP-based AI agents.</p>
-      <code>Python</code> <code>MCP</code> <code>AI Security</code>
+      <h3>🌐 Website redesign and rebuild</h3>
+      <img src="https://img.shields.io/badge/WEB-Australia-38BDF8?style=flat-square" alt="Web project" />
+      <p>A full rebuild of a marketing site on a headless stack the team can edit independently.</p>
+      <code>Next.js</code> <code>Nest.js</code> <code>Tailwind</code> <code>shadcn/ui</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🧪 TestPilotAI</h3>
-      <img src="https://img.shields.io/badge/FOCUS-AI%20Testing-38BDF8?style=flat-square" alt="AI testing" />
-      <p>AI-assisted browser testing with locator resolution, diagnostics, screenshots, and bug reporting.</p>
-      <code>Python</code> <code>Playwright</code> <code>Hugging Face</code>
+      <h3>🛒 E-commerce storefront</h3>
+      <img src="https://img.shields.io/badge/COMMERCE-USA-8B5CF6?style=flat-square" alt="Commerce project" />
+      <p>Catalogue, cart, and checkout built to survive campaign traffic spikes.</p>
+      <code>React</code> <code>Node.js</code> <code>Tailwind</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 AgentLab</h3>
-      <img src="https://img.shields.io/badge/FOCUS-Agent%20Workflows-8B5CF6?style=flat-square" alt="Agent workflows" />
-      <p>A multi-agent learning workspace with switchable Hugging Face models.</p>
-      <code>Python</code> <code>LLMs</code> <code>Agents</code>
+      <h3>💳 Subscription platform</h3>
+      <img src="https://img.shields.io/badge/PRODUCT-Pakistan-10B981?style=flat-square" alt="Product project" />
+      <p>Plan management, billing states, and a self-serve account area.</p>
+      <code>Product</code> <code>Billing</code> <code>Web App</code>
     </td>
     <td width="50%" valign="top">
-      <h3>📄 ResumeBuilderAI</h3>
-      <img src="https://img.shields.io/badge/FOCUS-Career%20Tech-10B981?style=flat-square" alt="Career technology" />
-      <p>Privacy-first resume generation with ATS feedback, keyword analysis, and PDF export.</p>
-      <code>FastAPI</code> <code>Ollama</code> <code>ReportLab</code>
+      <h3>☎️ Hotel reception voice agent</h3>
+      <img src="https://img.shields.io/badge/VOICE%20AI-Pakistan-F59E0B?style=flat-square" alt="Voice AI project" />
+      <p>Takes reservations around the clock, understands accents, and escalates to a human on request.</p>
+      <code>Python</code> <code>Rasa</code> <code>Twilio</code> <code>NLP</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚖️ Dastoor Desk (HaqAI)</h3>
-      <img src="https://img.shields.io/badge/FOCUS-Legal%20AI-EF4444?style=flat-square" alt="Legal AI" />
-      <p>Bilingual Pakistan legal-awareness platform using research, critique, and synthesis agents.</p>
-      <code>RAG</code> <code>Python</code> <code>Agents</code>
+      <h3>🏏 Cricket management app</h3>
+      <img src="https://img.shields.io/badge/MOBILE-Pakistan-EF4444?style=flat-square" alt="Mobile project" />
+      <p>Fixtures, live scoring, and squad management across web and mobile.</p>
+      <code>React</code> <code>Express</code> <code>MongoDB</code>
     </td>
-    <td width="50%" valign="middle" align="center">
-      <h3>✨ More in progress</h3>
-      <p>Building, learning, and shipping continuously.</p>
-      <img src="https://img.shields.io/badge/STATUS-Always%20building-2563EB?style=for-the-badge&logo=rocket&logoColor=white" alt="Always building" />
+    <td width="50%" valign="top">
+      <h3>☁️ Zero-downtime deployment pipeline</h3>
+      <img src="https://img.shields.io/badge/PLATFORM-Global-2563EB?style=flat-square" alt="Platform project" />
+      <p>Containerised delivery with infrastructure as code and automated rollbacks.</p>
+      <code>AWS</code> <code>Docker</code> <code>Kubernetes</code> <code>Terraform</code>
     </td>
   </tr>
 </table>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/6-Featured%20Projects-2563EB?style=for-the-badge&labelColor=0F172A" alt="Six featured projects" />
+  <br /><br />
   <sub>↓ Explore my pinned repositories for the code, demos, and latest updates ↓</sub>
 </div>
+
+<details>
+  <summary><b>✨ Also building — open this for my AI and research projects</b></summary>
+  <br />
+  <code>MCPRed</code> <code>TestPilotAI</code> <code>AgentLab</code> <code>ResumeBuilderAI</code> <code>Dastoor Desk (HaqAI)</code>
+</details>
 
 💼 Experience
 
@@ -130,5 +139,5 @@ I’m Mustafa Irfan, a software engineer and founder focused on turning ideas in
 
 <div align="center">
   <i>Let’s build something useful.</i><br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:2563eb,100:0f172a&height=110&section=footer" width="100%" alt="Footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:1D4ED8,100:22D3EE&height=135&section=footer&text=Let%27s%20build%20what%27s%20next.&fontSize=28&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn" width="100%" alt="Footer banner" />
 </div>
